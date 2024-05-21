@@ -1,0 +1,2 @@
+# picBase
+jsDelivr CDN
